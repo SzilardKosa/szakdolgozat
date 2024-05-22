@@ -1,0 +1,5 @@
+*~
+__pycache__/
+docs/
+calibration_videos/
+mocap_recording/
